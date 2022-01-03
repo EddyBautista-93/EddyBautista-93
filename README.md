@@ -1,12 +1,13 @@
 ### Hi there, I'm Eddy Bautista 👋
 
 ## I'm a Full Stack Developer!
+- 🚌 Application Developer for my city's transit agency!
 - 🏙  San Antonio, Texas.
 - 🔭 I Love C#, .Net & .Net Core with JS on the side!
 - 🌱 In my free time I love coding challenges and working with new tools/frameworks so my repos have a little of everything  🤣
 - 👯 Always open to new collaborative projects.
-- 🥅 2020/2021 Goals: Contribute more to Open Source projects
-- 🚌 Application Developer for my city's transit agency!
+- 🥅 2022 Goals: Continue collaborating with other developers on open source projects.
+
 
 
 ### Connect with me:
